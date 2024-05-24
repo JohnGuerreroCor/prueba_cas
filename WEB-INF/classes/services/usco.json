@@ -1,0 +1,12 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "http://localhost:8080/(sakai-login-tool/container|portal)",
+  "name" : "Lcms Usco",
+  "theme" : "default",
+  "id" : 10000002,
+  "description" : "Campus Virtual Universidad Surcolombiana",
+  "evaluationOrder" : 1,
+  "logoutType" : "BACK_CHANNEL",
+  "logoutUrl" : "http://localhost:8080/campusvirtual"
+}
+
